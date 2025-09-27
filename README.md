@@ -1,5 +1,5 @@
 # Portfolio
-Portfoloi
+
 # [Tymofii Maslov] | Computer Science Student
 
 ## About Me
