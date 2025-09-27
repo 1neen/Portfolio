@@ -1,6 +1,6 @@
 # Portfolio
 
-# [Tymofii Maslov] | Computer Science Student
+# Tymofii Maslov | Computer Science Student
 
 ## About Me
 I am a Computer Science student with a strong interest in software development, artificial intelligence, and modern IT technologies. Motivated to gain hands-on experience, contribute to projects, and grow professionally in the tech industry.
